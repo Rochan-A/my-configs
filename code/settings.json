@@ -1,0 +1,162 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 60000,
+    "editor.fontSize": 12.5,
+    "editor.fontFamily": "'Source Code Pro'",
+//    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.insertSpaces": false,
+    "window.menuBarVisibility": "toggle",
+    "terminal.integrated.cursorBlinking": true,
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": true,
+    "editor.renderIndentGuides": false,
+    "editor.minimap.enabled": true,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.renderWhitespace": "boundary",
+    "workbench.sideBar.location": "left",
+    "window.newWindowDimensions": "fullscreen",
+    "editor.tabSize": 8,
+    "editor.rulers": [
+        79
+    ],
+    "python.pythonPath": "/home/rochan/.virtualenvs/sptm/bin/python",
+    "typescript.check.npmIsInstalled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.commandPalette.preserveInput": true,
+    "workbench.commandPalette.history": 2,
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "dateTime.customFormat": "dddd, DD MMMM, YYYY | HH:mm",
+    "dateTime.use24HourClock":	true,
+    "pomotimer.workTime": 30,
+    "pomotimer.breakTime": 10,
+    "gitlens.gitExplorer.view": "repository",
+    "gitlens.keymap": "alternate",
+    "vsicons.dontShowNewVersionMessage": true,
+    "gitlens.historyExplorer.enabled": false,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "cSpell.userWords": [
+        "Avlur",
+        "Venkat"
+    ],
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "c",
+        "cpp",
+        "csharp",
+        "css",
+        "go",
+        "handlebars",
+        "html",
+        "jade",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "latex",
+        "less",
+        "markdown",
+        "php",
+        "plaintext",
+        "pub",
+        "python",
+        "restructuredtext",
+        "rust",
+        "scss",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ],
+    "dart.flutterSdkPath": "/home/rochan/Workspace/Android",
+    "cSpell.language": "en",
+    "window.zoomLevel": 0,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "workbench.colorTheme": "Blakai Theme",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "text.html.markdown.journal.task.open.bullet",
+                "settings": {
+                    "foreground": "#FFFF00"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.task.open.marker",
+                "settings": {
+                    "foreground": "#FFFF00"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.task.open.keyword",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.task.open.text",
+                "settings": {}
+            },
+            {
+                "scope": "text.html.markdown.journal.task.completed.keyword",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.task.completed.marker",
+                "settings": {
+                    "foreground": "#AAAAAA"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.task.completed.text",
+                "settings": {
+                    "foreground": "#AAAAAA"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.task.completed.bullet",
+                "settings": {
+                    "foreground": "#FFFF00"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.memo.keyword",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.memo.bullet",
+                "settings": {
+                    "foreground": "#FFFF00"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.scope",
+                "settings": {
+                    "foreground": "#FFFF00"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.link.keyword",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "text.html.markdown.journal.link.bullet",
+                "settings": {
+                    "foreground": "#FFFF00"
+                }
+            }
+        ]
+    },
+    "gitlens.views.fileHistory.enabled": false,
+    "gitlens.views.lineHistory.enabled": false,
+    "breadcrumbs.enabled": true
+}
