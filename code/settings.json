@@ -12,7 +12,7 @@
     "workbench.activityBar.visible": false,
     "workbench.statusBar.visible": true,
     "editor.renderIndentGuides": false,
-    "editor.minimap.enabled": true,
+    "editor.minimap.enabled": false,
     "editor.hideCursorInOverviewRuler": true,
     "editor.renderWhitespace": "boundary",
     "workbench.sideBar.location": "left",
@@ -21,9 +21,7 @@
     "editor.rulers": [
         79
     ],
-    "python.pythonPath": "/home/rochan/.virtualenvs/sptm/bin/python",
     "typescript.check.npmIsInstalled": false,
-    "workbench.iconTheme": "vscode-icons",
     "workbench.commandPalette.preserveInput": true,
     "workbench.commandPalette.history": 2,
     "git.autofetch": true,
@@ -34,7 +32,6 @@
     "pomotimer.breakTime": 10,
     "gitlens.gitExplorer.view": "repository",
     "gitlens.keymap": "alternate",
-    "vsicons.dontShowNewVersionMessage": true,
     "gitlens.historyExplorer.enabled": false,
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
@@ -158,5 +155,11 @@
     },
     "gitlens.views.fileHistory.enabled": false,
     "gitlens.views.lineHistory.enabled": false,
-    "breadcrumbs.enabled": true
+    "breadcrumbs.enabled": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "terminal.integrated.shell.linux": "/bin/zsh"
 }
